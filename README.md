@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UjjwalPanchal07
+- 👋 Hi, I’m Ujjwal Panchal
 - 👀 I’m interested in SDE role.
 - 👨‍💻 I'm a MCA student at National Institute of Technology Karnataka,Surathkal( NITK ).
 - 🌱 I’m currently learning DSA , MERN STACK
